@@ -1,0 +1,1 @@
+https://fun-beauty-app.vercel.app/
